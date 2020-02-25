@@ -1,4 +1,4 @@
-import Nombre from "./nombre.js.js"
+import Nombre from "./nombre.js"
 
 export default class Doctor {
     /**
